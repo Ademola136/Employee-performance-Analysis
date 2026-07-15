@@ -18,13 +18,13 @@ Analyzing employee performance, salary, and work patterns to help HR and managem
 ---
 
 ## Overview
-This project analyzes performance and workforce data across **4,000 employees** to uncover how department, work location, salary, and tenure relate to employee performance. The result is an interactive Power BI dashboard that helps HR teams identify trends and make data-informed decisions on promotions, retention, and workforce planning.
+This project analyzes performance and workforce data across **4,000 employees** to uncover how department, work location, salary, and tenure relate to employee performance. The result is an interactive Power BI dashboard that helps HR teams identify trends and make data informed decisions on promotions, retention, and workforce planning.
 
 ## Problem Statement
 HR teams often lack a clear, unified view of how factors like department, salary, and work location relate to employee performance, making it difficult to make informed decisions on promotions, compensation, and retention.
 
 ## Objective
-To analyze employee performance data and identify patterns across departments, work locations, salary bands, and tenure — helping HR teams make informed decisions on promotions, compensation, and workforce planning.
+To analyze employee performance data and identify patterns across departments, work locations, salary bands, and tenure helping HR teams make informed decisions on promotions, compensation, and workforce planning.
 
 ## Tools & Technologies
 - **Excel** — Data cleaning (removed duplicates, handled blanks, standardized data types)
@@ -34,7 +34,7 @@ To analyze employee performance data and identify patterns across departments, w
 Real employee data covering 4,000 employees, including department, work location, salary, tenure, performance category, and absence records.
 
 ## Process & Approach
-1. Cleaned raw employee data in **Excel** — removed duplicate records, handled blank/missing values, standardized data types for consistency
+1. Cleaned raw employee data in **Excel** removed duplicate records, handled blank/missing values, standardized data types for consistency
 2. Built an interactive **Power BI** dashboard with slicers (Gender, Department) for dynamic filtering
 3. Designed visualizations to explore performance by work location, department, salary, and tenure
 4. Segmented analysis to identify performance and compensation trends across the workforce
